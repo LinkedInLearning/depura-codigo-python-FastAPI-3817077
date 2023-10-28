@@ -1,0 +1,67 @@
+{
+    "restaurants": [
+        {
+            "name": "Paco Pizza",
+            "description": "La mejor pizza",
+            "address": "Calle 12 #3"
+        },
+        {
+            "name": "Mateo Burger",
+            "description": "Hamburguesas con todo",
+            "address": "Calle 1 #23"
+        },
+        {
+            "name": "SalchiJuli",
+            "description": "Papas con adicion de salchicha",
+            "address": "Calle 3 #21"
+        }
+    ],
+    "reviews": [
+        
+        {
+            "restaurant_id": 1,
+            "opinion": "La comida es buena pero de bebida solo tienen gaseosas sin azúcar, falta variedad",
+            "rate": 4
+        },
+        {
+            "restaurant_id": 1,
+            "opinion": "Interesante restaurante, pero creo que la pizza de marranitas no es una buena combinación",
+            "rate": 3
+        },
+        {
+            "restaurant_id": 1,
+            "opinion": "Desde que comi en paco pizza mi vida es más feliz; duermo 8hrs diarias, desayuno como y ceno sano, me siento motivado. trabajo, recibo un sueldo alto, amo a mi familia. ya no me preocupo por comer en restaurantes de mala calidad que , sé como yo y come en paco pizza. 10/10",
+            "rate": 5
+        },
+        {
+            "restaurant_id": 2,
+            "opinion": "Las mejores hamburguesas de la historia",
+            "rate": 5
+        },
+        {
+            "restaurant_id": 2,
+            "opinion": "Solo me pude comer 1/3 de la hamburguesa, es demasiado grande",
+            "rate": 2
+        },
+        {
+            "restaurant_id": 2,
+            "opinion": "Pedi hamburguesa fit y solo me dieron 1 pedazo de lechuga",
+            "rate": 1
+        },
+        {
+            "restaurant_id": 3,
+            "opinion": "La mejor salchipapa",
+            "rate": 5
+        },
+        {
+            "restaurant_id": 3,
+            "opinion": "La salchipapas son ricas pero muy básicas",
+            "rate": 3
+        },
+        {
+            "restaurant_id": 3,
+            "opinion": "Papas crocantes y las mejores salsas para acompañar",
+            "rate": 5
+        }
+    ]
+}

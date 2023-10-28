@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+fastapi_sqlalchemy
+SQLAlchemy-Utils
+pytest
+coverage
