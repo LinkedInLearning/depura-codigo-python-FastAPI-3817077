@@ -1,7 +1,7 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-fastapi_sqlalchemy
-SQLAlchemy-Utils
-pytest
-coverage
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+sqlalchemy==1.4.41
+FastAPI-SQLAlchemy==0.2.1
+SQLAlchemy-Utils==0.41.1
+pytest==7.4.3
+coverage==7.3.2
